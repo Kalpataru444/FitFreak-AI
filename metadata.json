@@ -1,0 +1,6 @@
+{
+  "name": "FitFreak AI",
+  "description": "Next-generation dark aesthetic AI fitness and nutrition platform with real-time computer vision biomechanics, meal scanner, and autonomous coaching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
